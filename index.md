@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Dmetadata goes in the head-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first page</title>
+</head>
+<body>
+    <!-- content goes to body Ctrl + '' -->
+    <h1>This is my first tag!!</h1>
+    <h2> Toka   </h2>
+    <h3> Kolmas </h3>
+    <h4> Neljäs </h4>
+
+    <p>Tämä on tekstiä plaaplaaplaa
+        jgrjorejgeorjgerjgdard <strong>text ever since the 1500s, when</strong> an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+     <p>   egegergergerg
+        egergergerergergegaagdard <em>dummy text</em> ever since the 1500s, when an unknown
+         printer took a galley of type and scrambled it to make a type specimen book. It has 
+         survived not only five centuries, but also the leap into electronic typesetting, remainin
+         g essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets
+          containing Lorem Ipsum passages, and more recently with desktop publishing software like A
+          ldus PageMaker including versions of Lorem Ipsum.</p>
+<h4>My Color List</h4>
+    <ol>
+        <li>red</li>
+        <li>orange</li>
+        <li>yellow</li>
+    </ol>
+
+    <ul>
+        <li><strong>red</strong></li>
+        <li>orange</li>
+        <li>yellow</li>
+        <ul>
+            <li>banana</li>
+            <li>orange</li>
+        </ul>
+    </ul>
+
+</body>
+</html>
+
