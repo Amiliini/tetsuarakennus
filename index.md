@@ -1,7 +1,5 @@
 
 
-<body>
-
 
   <nav id="mainNavbar" class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark clearfix">
 
@@ -337,6 +335,4 @@
 
   <script src="script.js"></script>
 
-</body>
 
-</html>
