@@ -1,0 +1,59 @@
+body {
+  background-image: url("AdobeStock_325317023.jpeg");
+  background-size: 100%;
+  background-attachment: fixed;
+  font-family: "B612", sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  opacity: 0.8;
+}
+
+.runko {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  /* height: 700px; */
+  background-color: #f8f6f6e1;
+}
+
+.navbar {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#logo {
+  width: 80%;
+}
+body {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.k-kuva {
+  height: 700px;
+  max-width: 450px;
+  margin: auto;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
+}
+
+.container {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 25px;
+  border: solid 3px;
+  border-color: rgb(39, 39, 39);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 100px 0 rgba(0, 0, 0, 0.95);
+}
+
+#kumppani {
+  height: 75px;
+}
