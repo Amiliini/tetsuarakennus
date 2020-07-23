@@ -143,7 +143,7 @@
           </div>
           </div>
          
-</section>
+
   </div>
 
 
@@ -187,7 +187,7 @@
               </a>
             </div>
           </div>
-</section>
+
         </div>
 
 
@@ -253,7 +253,7 @@
               </p>
             </div>
           </div>
-    </section>
+   
   </div>
 
 
