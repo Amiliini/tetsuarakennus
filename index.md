@@ -95,6 +95,7 @@
     <section class="container-fluid px-0">
       <div class="row align-items-center content">
         <div class="col-md-6 order-2 order-md-1">
+          
           <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
@@ -203,7 +204,7 @@
 
             </div>
           </div>
- 
+  </div>
   </div>
 
   <div class="runko container mt-5">
@@ -252,7 +253,7 @@
               </p>
             </div>
           </div>
-    
+     </div>
   </div>
 
 
