@@ -38,9 +38,7 @@
 
     <div class="runko container mt-5">
 
-      <!-- ALKUINFO JA YHTEYSTIEDOT OSIOT: KESKITYS, ILMAA REUNOIHI PADDING TMS? -->
-
-      <section class="container-fluid px-0">
+        <section class="container-fluid px-0">
         <div id="block" class="row align-items-center content">
           <div class="col-md-6 order-2 order-md-1">
             <img class="img-fluid" src="TetsuaLogo.png" alt="Tetsua logo">
