@@ -235,7 +235,7 @@
                 <span class="sr-only">Next</span>
               </a>
             </div>
-          </div>
+          
         </div>
         <div class="col-md-6 text-center order-1 order-md-2">
           <div class="row justify-content-center">
